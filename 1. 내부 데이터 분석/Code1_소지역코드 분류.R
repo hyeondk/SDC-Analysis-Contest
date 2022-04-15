@@ -186,3 +186,4 @@ dongtan <- subset(rawdata_g, rawdata_g$ADONG_NM %in% c("동탄1동", "동탄2동
 cd_dongtan <- unique(dongtan$BLOCK_CD)
 head(cd_dongtan)
 str(cd_dongtan)
+ 
