@@ -1,0 +1,5 @@
+### 시군구코드(5자리) 출처 ###
+http://kosis.kr/upsHtml/online/downSrvcFile.do;jsessionid=BPrvJ2OnP8rCtalJzPIYm32K2i95yMQMHDM6O6QJWEC9IcXtgdC6kReru2nLwR04.STAT_WAS2_servlet_engine2?PUBCODE=AD&SEQ=3103&FILE_NAME=020426.xlsx
+
+### 한국행정구역코드(7자리) 출처 ###
+https://www.google.com/url?sa=t&source=web&rct=j&url=http://kssc.kostat.go.kr/ksscNew_web/kssc/common/CommonBoardList.do%3Fgubun%3D1%26strCategoryNameCode%3D019%26strBbsId%3Dkascrr%26categoryMenu%3D014&ved=2ahUKEwiH58y2-M_jAhXBLqYKHfn2CqEQFjAEegQIBRAB&usg=AOvVaw1QujB7GCTlUwMaU0Y98xeK&cshid=1564053539559
